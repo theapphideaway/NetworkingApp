@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/fragment"
-        android:name="com.ianschoenrock.networkingapp.Posts.PostFragment"
+        android:name="com.ianschoenrock.networkingapp.Guitars.GuitarFragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
